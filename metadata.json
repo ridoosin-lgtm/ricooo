@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Muatan Kapal & Penumpang",
+  "description": "Aplikasi manajemen operasional muatan kapal dan manifest penumpang terintegrasi dengan real database, CRUD master & transaksi, laporan, serta dashboard analitik real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
